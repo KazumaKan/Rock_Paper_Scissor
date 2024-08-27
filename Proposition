@@ -1,0 +1,12 @@
+You should know
+    -The following text is translated by "Google Translate" 
+
+Introduction
+    -Rock Paper Scissors is one of the most popular childhood games where two people use their hands to pick a random object between rock, paper or scissors. The choice then determines the winner between them.
+    -What if you could play this game alone?
+
+Our task is:
+    1. Create a Rock Paper Scissor game.
+    2. There is only the player and the computer.
+    3. The computer will randomly select from all 3 options.
+    4. The winner will be announced.
